@@ -7,9 +7,13 @@
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/Epass2/app/src/main/res/drawable/input_bg.xml" value="0.1745" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/Epass2/app/src/main/res/layout/PerDet.xml" value="0.1" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/Epass2/app/src/main/res/layout/activity_login.xml" value="0.25416666666666665" />
-        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Epass2/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Epass2/app/src/main/res/layout/activity_main.xml" value="0.144" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Epass2/app/src/main/res/layout/activity_pass.xml" value="0.20969202898550723" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/Epass2/app/src/main/res/layout/activity_perdet.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Epass2/app/src/main/res/layout/activity_perdetl.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/Epass2/app/src/main/res/layout/activity_register.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Epass2/app/src/main/res/layout/activity_renew.xml" value="0.20969202898550723" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/Epass2/app/src/main/res/layout/activity_write.xml" value="0.20516304347826086" />
         <entry key="..\:/Users/ASUS/AndroidStudioProjects/Epass2/app/src/main/res/layout/newpage.xml" value="0.25416666666666665" />
       </map>
     </option>
